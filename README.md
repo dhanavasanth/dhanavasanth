@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">AI Specialist | ML Engineer | Data Scientist | | Data analyst | Data Engineer | LLM Architect | Multi-cloud Specialist</h3>
+<h3 align="center">AI Specialist | ML Engineer | Data Scientist  | Data Engineer | LLM Architect | Multi-cloud Specialist</h3>
 
 ###
 
@@ -13,8 +13,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanavasanth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dhanavasanth&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanavasanth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&custom_title=Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=dhanavasanth&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanavasanth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&custom_title=Contribution...!" height="150" alt="languages graph"  />
 </div>
 
@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="right" height="328" src="https://cdn-images-1.medium.com/max/800/1*4Tr0FOsdUgkF32T3mdu6pg.gif"  />
+<img align="right" height="250" src="https://cdn-images-1.medium.com/max/800/1*4Tr0FOsdUgkF32T3mdu6pg.gif"  />
 
 ###
 
