@@ -7,15 +7,15 @@
 ###
 
 
-<h3 align="center">AI Specialist | ML Engineer | Data Scientist  | Data Engineer | LLM Architect | Multi-cloud Specialist</h3>
+<h2 align="center">AI Specialist | ML Engineer | Data Scientist  | Data Engineer | LLM Architect | Multi-cloud Specialist</h2>
 
 ###
 
-<h4 align="left">🪄Building the future with Deep Learning, Reinforcement Learning, NLP, and Intelligent Automation. From LLM to cutting-edge AI agents and next-gen ML applications, explore projects pushing the boundaries of innovation. Let’s shape the future—one model at a time! 💡⚡</h4>
+<h3 align="left">🪄Building the future with Deep Learning, Reinforcement Learning, NLP, and Intelligent Automation. From LLM to cutting-edge AI agents and next-gen ML applications, explore projects pushing the boundaries of innovation. Let’s shape the future—one model at a time! 💡⚡</h3>
 
 ###
 
-<h2 align="right">Skills and Technologies 🛠️</h2>
+<h1 align="right">Skills and Technologies 🛠️</h1>
 
 ###
 
@@ -101,7 +101,7 @@
 
 ###
 
-<h2 align="left">Connect with Me .....! 😎👇</h2>
+<h1 align="left">Connect with Me .....! 😎👇</h1>
 
 ###
 
@@ -116,7 +116,7 @@
 
 ###
 
-<h2 align="left">Total Contribution's ... ✌️</h2>
+<h1 align="left">Total Contribution's ... ✌️</h1>
 
 ###
 
