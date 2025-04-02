@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">Skills and Technologies 🛠️</h2>
+<h2 align="right">Skills and Technologies 🛠️</h2>
 
 ###
 
