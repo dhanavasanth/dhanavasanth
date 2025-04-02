@@ -7,7 +7,7 @@
 ###
 
 
-<h2 align="center">AI Specialist | ML Engineer | Data Scientist  | Data Engineer | LLM Architect | Multi-cloud Specialist</h2>
+<h3 align="center">AI Specialist | ML Engineer | Data Scientist  | Data Engineer | LLM Architect | Multi-cloud Specialist</h3>
 
 ###
 
