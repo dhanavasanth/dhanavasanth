@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="right">🪄Building the future with Deep Learning, Reinforcement Learning, NLP, and Intelligent Automation. From LLM to cutting-edge AI agents and next-gen ML applications, explore projects pushing the boundaries of innovation. Let’s shape the future—one model at a time! 💡⚡</h4>
+<h4 align="left">🪄Building the future with Deep Learning, Reinforcement Learning, NLP, and Intelligent Automation. From LLM to cutting-edge AI agents and next-gen ML applications, explore projects pushing the boundaries of innovation. Let’s shape the future—one model at a time! 💡⚡</h4>
 
 ###
 
