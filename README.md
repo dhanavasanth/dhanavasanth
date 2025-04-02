@@ -1,3 +1,7 @@
+<img align="left" height="195" src="https://azizsenturk.com/images/hello-avatar.gif"  />
+
+###
+
 <h1 align="center">🔥 Welcome to Dhana Vasanth’s Repo hub...! 🚀</h1>
 
 ###
@@ -6,105 +10,119 @@
 
 ###
 
-<h4 align="center">Building the future with Deep Learning, Reinforcement Learning, NLP, and Intelligent Automation. From LLM to cutting-edge AI agents and next-gen ML applications, explore projects pushing the boundaries of innovation. Let’s shape the future—one model at a time! 💡⚡</h4>
+<h4 align="center">🪄Building the future with Deep Learning, Reinforcement Learning, NLP, and Intelligent Automation. From LLM to cutting-edge AI agents and next-gen ML applications, explore projects pushing the boundaries of innovation. Let’s shape the future—one model at a time! 💡⚡</h4>
 
 ###
 
-<br clear="both">
+<h2 align="left">Skills and Technologies 🛠️</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanavasanth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dhanavasanth&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanavasanth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&custom_title=Contribution...!" height="150" alt="languages graph"  />
+###
+
+<img align="right" height="210" src="https://media4.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="44" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="44" alt="androidstudio logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="44" alt="apachekafka logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=azure" height="44" alt="azure logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="44" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flask" height="44" alt="flask logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="44" alt="googlecloud logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="44" alt="grafana logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="44" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="44" alt="kubernetes logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="44" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="44" alt="powershell logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="44" alt="prometheus logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="44" alt="pytorch logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="44" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="44" alt="selenium logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="44" alt="stackoverflow logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="44" alt="sqlite logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="44" alt="tensorflow logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="44" alt="apachecassandra logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="44" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="44" alt="fastapi logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="44" alt="jupyter logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="44" alt="terraform logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="44" alt="wordpress logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="44" alt="slack logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="44" alt="putty logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="44" alt="opencv logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="44" alt="apache logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="44" alt="anaconda logo"  />
 </div>
 
 ###
 
-<div align="center">
+<h2 align="left">Connect with Me .....! 😎👇</h2>
+
+###
+
+<div align="left">
   <a href="danavasanth@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/dhana-vasanth-d8870" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@danavasanth" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=plastic" height="35" alt="medium logo"  />
+  <a href="https://www.linkedin.com/in/dhana-vasanth-d8870/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="250" src="https://cdn-images-1.medium.com/max/800/1*4Tr0FOsdUgkF32T3mdu6pg.gif"  />
+<h2 align="left">Total Contribution's ... ✌️</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="48" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="48" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="48" alt="azure logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="48" alt="androidstudio logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="48" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="48" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="48" alt="grafana logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="48" alt="jupyter logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="48" alt="kaggle logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" alt="kubernetes logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="48" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="48" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="opencv logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="48" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="48" alt="prometheus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" height="48" alt="pytorch logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="48" alt="slack logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" alt="sqlite logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="tensorflow logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="48" alt="terraform logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="48" alt="putty logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="48" alt="apachekafka logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="48" alt="apachecassandra logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="48" alt="selenium logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanavasanth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanavasanth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dhanavasanth/dhanavasanth/output/snake.svg" alt="Snake animation" />
 
 ###
 
