@@ -58,7 +58,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=powershell" height="44" alt="powershell logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i-prometheus" height="44" alt="prometheus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="44" alt="prometheus logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="44" alt="pytorch logo"  />
   <img width="10" />
